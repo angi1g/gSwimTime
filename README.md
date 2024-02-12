@@ -1,0 +1,1 @@
+Timer per il nuoto. Impostando il timer a 2 minuti (per esempio) il nuotatore ha 2 minuti per fare 100 metri, 4 minuti per fare 200 metri, 6 per fare 300 metri e così via. Una volta completata la distanza il nuotatore può recuperare fino a che il timer non riparte.
